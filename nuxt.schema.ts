@@ -114,7 +114,7 @@ export default defineNuxtSchema({
          *
          * Leave it empty to disable.
          */
-        message: 'Follow me on'
+        message: 'Как со мной связаться'
       },
       /**
        * Icons to be added to Social Icons in footer.

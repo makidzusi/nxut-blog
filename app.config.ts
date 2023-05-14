@@ -17,14 +17,9 @@ export default defineAppConfig({
       }
     },
     footer: {
-      credits: {
-        enabled: true,
-        text: 'Alpine',
-        repository: 'https://www.github.com/nuxt-themes/alpine'
-      },
       navigation: true,
       alignment: 'center',
-      message: 'Follow me on'
+      message: 'Связаться со мной'
     },
     socials: {
       twitter: '',

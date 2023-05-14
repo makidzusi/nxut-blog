@@ -4,7 +4,7 @@
     <NuxtLink :to="parentPath" class="back">
       <Icon name="ph:arrow-left" />
       <span class="text-primary-900 dark:text-primary-100">
-        Back
+        Назад
       </span>
     </NuxtLink>
     <header>
