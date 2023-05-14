@@ -8,14 +8,14 @@ export default defineAppConfig({
       width: 400,
       height: 300
     },
-    header: {
-      position: 'right',
-      logo: {
-        path: '/logo.svg',
-        pathDark: '/logo-dark.svg',
-        alt: 'alpine'
-      }
-    },
+    // header: {
+    //   position: 'right',
+    //   logo: {
+    //     path: '/logo.svg',
+    //     pathDark: '/logo-dark.svg',
+    //     alt: 'alpine'
+    //   }
+    // },
     footer: {
       navigation: true,
       alignment: 'center',
